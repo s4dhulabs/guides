@@ -1,3 +1,18 @@
+
+GitLab CI - SImple vimana installation pipeline
+
+![image](https://github.com/user-attachments/assets/7512bef2-244e-4ef4-9379-e06f2097a727)
+![image](https://github.com/user-attachments/assets/8b7d717f-aa47-406f-b692-f2f933a5bd39)
+
+GitLab CI - Installing and running vimana plugin framewalk
+![image](https://github.com/user-attachments/assets/ec3ea405-20c9-407b-b9ce-0d480dcdf899)
+![image](https://github.com/user-attachments/assets/f5f70d0e-d1fb-49ba-8fe4-ff4888251068)
+![image](https://github.com/user-attachments/assets/cccfe374-f794-4d31-8562-bd3849cae749)
+
+
+
+--------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/03a894c2-285d-403e-9b10-f03c5dad439c)
 ![image](https://github.com/user-attachments/assets/d5580dc5-6d45-414b-a426-e3162159b6b3)
 ![image](https://github.com/user-attachments/assets/c6d71535-76cd-4c66-8969-a27dc1348a5c)
@@ -29,6 +44,7 @@ CircleCI - step: upload artifacts
 ![image](https://github.com/user-attachments/assets/a7cd9fe6-2ad5-44df-9c19-c9bea22773dd)
 
 
+----
 
 
 
