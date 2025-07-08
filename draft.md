@@ -1,4 +1,7 @@
 
+![image](https://github.com/user-attachments/assets/6b50c14c-eb1c-4bab-81e2-8baf489d31e5)
+
+====================================
 GitLab CI - SImple vimana installation pipeline
 View of the pipeline and the job showing vimana installation finished well
 
