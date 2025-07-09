@@ -1,6 +1,15 @@
 
 ![image](https://github.com/user-attachments/assets/6b50c14c-eb1c-4bab-81e2-8baf489d31e5)
 
+installation starts - installing dependencies:
+![image](https://github.com/user-attachments/assets/73577745-d051-4fe7-a8fa-5ae0070d69fd)
+installation starts 2 - loading plugins:
+![image](https://github.com/user-attachments/assets/9c42e79e-f2fa-4b84-9dd5-ba2ebd0415a0)
+final screen - installation finished!
+![image](https://github.com/user-attachments/assets/35614a24-2ec2-4493-97d4-6ac9c2156189)
+
+
+
 ====================================
 GitLab CI - SImple vimana installation pipeline
 View of the pipeline and the job showing vimana installation finished well
