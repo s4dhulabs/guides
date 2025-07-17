@@ -1,7 +1,4 @@
-
-<img width="1168" height="822" alt="image" src="https://github.com/user-attachments/assets/3b110583-0dd3-4d71-a264-5126e9359d8e" />
-
-framewalk guide args
+<img width="1098" height="898" alt="image" src="https://github.com/user-attachments/assets/ed6de2c7-4afa-4c44-948f-453af7824261" />
 <img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/96f3f516-da68-404f-9381-9c8bb027bb37" />
 
 vf
